@@ -16,6 +16,6 @@ eval_model.py is a script with code for testing model and visualization of the r
 
 From testing model we can see that it understands how to find ships.
 
-What I would update is accuracy of the model by making more complicated architecture of the model and change some hyperparameters.
+What I would improve is accuracy of the model by making more complicated architecture of the model and change some hyperparameters.
 
 ![Example](evalimg.png)
